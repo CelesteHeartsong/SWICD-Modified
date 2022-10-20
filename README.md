@@ -1,3 +1,5 @@
+# This is currently a fork of SWICD 3.1 with some bugfixs and additional features implemented by the SteamDeck Discord Windows support channel.
+
 # Steamdeck Windows Controller Driver
 **S**teamdeck **WI**ndows **C**ontroller **D**river (SWICD)
 
